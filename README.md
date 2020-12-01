@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Stanley,
+My name is Stanley Lee,
 
 I'm a full-stack software engineer from New York, NY. Earlier this year, I attended and graduated Flatiron School, an 15 week immersive coding bootcamp located in New York. Since graduating, I've been busy building exciting new side projects where I can learn new things and further implement skills I already have. I'm currently looking for a software engineering job and aiming to be the best version of myself! Hit me up if you have any questions!
 
