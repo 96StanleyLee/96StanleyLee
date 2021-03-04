@@ -8,8 +8,8 @@ I'm a full-stack software engineer from New York, NY. Earlier this year, I atten
 ![Stanley's github stats](https://github-readme-stats.vercel.app/api?username=96stanleylee&count_private=true&theme=dark)
 
 
-- 🔭 I’m currently working on being the best intern I can be at Force Therapeutics!
-- 🌱 I’m currently learning the ins and outs of being on an established engineering team.
+- 🔭 I was previously a Software Engineering Intern at health-tech company, Force Therapeutics
+- 🌱 I’m currently looking for new opportunities.
 - 📫 How to reach me: 96stanleylee@gmail.com or https://www.stanlee.codes
 
 
