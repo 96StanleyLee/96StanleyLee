@@ -6,7 +6,6 @@ I'm a full-stack software engineer from New York, NY. Earlier this year, I atten
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=96stanleylee&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Stanley's github stats](https://github-readme-stats.vercel.app/api?username=96stanleylee&count_private=true&theme=dark)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
