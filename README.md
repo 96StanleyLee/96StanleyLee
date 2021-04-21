@@ -10,7 +10,7 @@ I'm a full-stack software engineer from New York, NY. Earlier this year, I atten
 
 
 - 🔭 I was previously a Software Engineering Intern at health-tech company, Force Therapeutics
-- 🌱 I’m currently working as a Developer at Vanguard
+- 🌱 I’m currently working looking for the next best thing!
 - 📫 How to reach me: 96stanleylee@gmail.com or https://www.stanlee.codes
 
 
