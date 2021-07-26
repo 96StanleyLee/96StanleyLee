@@ -10,10 +10,9 @@ I'm a full-stack software engineer from New York, NY. I attended and graduated F
 
 
 - 👨‍⚕️ I was previously a Software Engineering Intern at health-tech company, Force Therapeutics
-- 👨‍💻 I’m currently working as a Contracted Full Stack Engineer for Future Foundry
-- 📝 I'm about to start my next journey as a Software Engineer for startup [Common Paper](https://commonpaper.com/)  
+- 👨‍💻 After Force, I honed my skills by working as a Contracted Full Stack Engineer for Future Foundry
+- 📝 I'm currently working as a Software Engineer with an amazing team at [Common Paper](https://commonpaper.com/)  
 - 📫 How to reach me: 96stanleylee@gmail.com or https://www.stanlee.codes
-
 
 <!--
 **96StanleyLee/96StanleyLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
