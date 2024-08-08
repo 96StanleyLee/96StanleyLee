@@ -11,7 +11,7 @@ I'm a full-stack software engineer from New York, NY. I attended and graduated F
 
 - 👨‍⚕️ I was previously a Software Engineering Intern at health-tech company, Force Therapeutics
 - 👨‍💻 After Force, I honed my skills by working as a Contracted Full Stack Engineer for Future Foundry
-- 📝 I'm currently working as a Software Engineer with an amazing team at [Common Paper](https://commonpaper.com/)  
+- 📝 I'm currently working as a Senior Software Engineer with an amazing team at [Common Paper](https://commonpaper.com/)  
 - 📫 How to reach me: 96stanleylee@gmail.com or https://www.stanlee.codes
 
 <!--
